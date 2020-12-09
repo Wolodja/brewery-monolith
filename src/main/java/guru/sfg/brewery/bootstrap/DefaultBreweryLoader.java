@@ -29,9 +29,7 @@ import org.springframework.stereotype.Component;
 import java.util.UUID;
 
 
-/**
- * Created by jt on 2019-01-26.
- */
+
 @Component
 public class DefaultBreweryLoader implements CommandLineRunner {
 
